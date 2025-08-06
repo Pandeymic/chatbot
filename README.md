@@ -1,4 +1,4 @@
-# Zerocode Frontend Assignment – Vineet Pandey
+# Chatbot
 
 This is a fully responsive AI chat assistant web app built with React, Vite, and TailwindCSS. It includes login authentication, a clean chat interface with bot interaction, and bonus features like voice input, chat export, and smart prompt suggestions.
 
@@ -104,6 +104,6 @@ Prompt	Bot Response
 "What’s the weather?"	"It's always sunny in localhost 🌞"
 "Who won the last IPL?"	"CSK won the last IPL. Dhoni still finishes things off in style!"
 
-Built by Vineet Pandey
-Frontend Developer
+
+
 
